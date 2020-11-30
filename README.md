@@ -13,5 +13,5 @@ npm i
 ## Usage 
 To scrape a laptops data:
 ```
-npm run scraper.js
+npm run scraper
 ```
